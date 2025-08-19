@@ -77,7 +77,7 @@ export default function FreshSales() {
       {}
       <div className="ml-20 mt-15 mb-1 flex items-center gap-2">
         <span className="block w-3 h-7 bg-[#DB4444] rounded mr-2 ml-10"></span>
-        <span className="text-[#DB4444] font-semibold text-lg ">Today's</span>
+        <span className="text-[#DB4444] font-semibold text-lg ">Today&apos;s</span>
       </div>
       {}
       <div className="flex items-center justify-between mb-6 ml-29 mr-20">
